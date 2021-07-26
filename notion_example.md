@@ -18,7 +18,8 @@ Here are the basics:
     - [Help & Support](https://www.notion.so/Help-Support-Documentation-e040febf70a94950b8620e6f00005004): ****Guides and FAQs for everything in Notion
     - Stay organized with your sidebar and nested pages:
 
-        ![pictures/infinitehierarchynodither.gif](pictures/infinitehierarchynodither.gif)
+        ![https://i.imgur.com/fFaSzXS.gif](https://i.imgur.com/fFaSzXS.gif)
+
 
 See it in action:
 
